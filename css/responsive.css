@@ -1,0 +1,10 @@
+@media (max-width: 768px){
+    #custom-nav ul li a{
+    text-align: right;
+}
+}
+@media (min-width: 768px){
+    nav{
+    box-shadow:none;
+}
+}
